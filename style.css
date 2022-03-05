@@ -1,0 +1,17 @@
+body {
+    background: rgb(58, 38, 38);
+    color: #eee;
+  }
+  #lista{
+    list-style: none;
+    padding: 0
+  }
+  #lista > li {
+    display: flex;
+    background: rgba(238, 171, 204, 0.2);
+    color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+  }
+  
